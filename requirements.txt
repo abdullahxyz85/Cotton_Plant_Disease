@@ -1,7 +1,6 @@
-streamlit
-scikit-learn
-Pillow
-numpy
-scikit-image
-joblib
-python==3.8
+streamlit==1.10.0
+scikit-learn==1.0.2
+Pillow==8.4.0
+numpy==1.21.2
+scikit-image==0.18.3
+joblib==1.1.0
