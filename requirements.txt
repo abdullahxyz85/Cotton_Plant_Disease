@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+Pillow
+numpy
+scikit-image
+joblib
+python==3.8
